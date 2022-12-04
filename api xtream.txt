@@ -1,13 +1,13 @@
 http://mygotv.net/player_api.php?username=fastuhdseries&password=fastuhdseries&action=get_series_categories
 
 LOGIN API
-Get http://acsa.ws/player_api.php?username=francisca.maria&password=T9G1dp
+Get http://acsa.ws/player_api.php?username=francisca.maria1&password=T9G1dp1
 
 RESPOSTA
 {
   "user_info": {
-    "username": "francisca.maria",
-    "password": "T9G1dp",
+    "username": "francisca.maria1",
+    "password": "T9G1dp1",
     "message": null,
     "auth": 1,
     "status": "Active",
@@ -15,7 +15,7 @@ RESPOSTA
     "is_trial": "0",
     "active_cons": 0,
     "created_at": "1657137251",
-    "max_connections": "1",
+    "max_connections": "121",
     "allowed_output_formats": [
       "m3u8",
       "ts",
@@ -39,7 +39,7 @@ RESPOSTA
 
 CARREGAR MENU CANAIS
 
-GET http://acsa.ws/player_api.php?username=francisca.maria&password=T9G1dp&action=get_live_categories
+GET http://acsa.ws/player_api.php?username=francisca.maria1&password=T9G1dp1&action=get_live_categories
 
 RESPOSTA
 [
@@ -58,7 +58,7 @@ RESPOSTA
 
 CARREGAR MENU FILMES CATEGORIAS
 
-GET http://acsa.ws/player_api.php?username=francisca.maria&password=T9G1dp&action=get_vod_categories
+GET http://acsa.ws/player_api.php?username=francisca.maria1&password=T9G1dp1p&action=get_vod_categories
 
 RESPOSTA
 [
@@ -76,7 +76,7 @@ RESPOSTA
  
  CARREGAR MENU FILMES
  
- GET http://acsa.ws/player_api.php?username=francisca.maria&password=T9G1dp&action=get_vod_streams
+ GET http://acsa.ws/player_api.php?username=francisca.maria1&password=T9G1dp1&action=get_vod_streams
  
  RESPOSTA
  [
@@ -122,7 +122,7 @@ RESPOSTA
  
  CARREGAR INFO FILMES
  
- GET http://acsa.ws/player_api.php?username=francisca.maria&password=T9G1dp&action=get_vod_info&vod_id=169298
+ GET http://acsa.ws/player_api.php?username=francisca.maria1&password=T9G1dp1&action=get_vod_info&vod_id=169298
  
  RESPOSTA
  {
@@ -174,7 +174,7 @@ RESPOSTA
 
 CARREGAR MENU SERIES CATEGORIAS
 
-GET http://acsa.ws/player_api.php?username=francisca.maria&password=T9G1dp&action=get_series_categories
+GET http://acsa.ws/player_api.php?username=francisca.maria1&password=T9G1dp1&action=get_series_categories
 
 RESPOSTA
 [
@@ -192,7 +192,7 @@ RESPOSTA
 
 CARREGAR SERIES
 
-GET http://acsa.ws/player_api.php?username=francisca.maria&password=T9G1dp&action=get_series
+GET http://acsa.ws/player_api.php?username=francisca.maria1&password=T9G1dp1&action=get_series
 
 RESPOSTA
 [
@@ -258,7 +258,7 @@ RESPOSTA
 
 CARREGANDO INFO SERIES
 
-GET http://acsa.ws/player_api.php?username=francisca.maria&password=T9G1dp&action=get_series_info&series_id=2535
+GET http://acsa.ws/player_api.php?username=francisca.maria1&password=T9G1dp1&action=get_series_info&series_id=2535
 
 RESPOSTA
 {
